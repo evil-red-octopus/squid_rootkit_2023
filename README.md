@@ -27,6 +27,10 @@ And the rest you can see in the help screenshot
 
 Fully fud poc
 
+See the poc.mp4
+
+No dependencies. Standalone executable poc
+
 Follow instructions which will be provided in the zip package you will get
 
 Price: 0.044 bitcoins
