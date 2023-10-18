@@ -39,6 +39,8 @@ And that is final.
 
 Nothing more nothing less
 
+This github repo will self destruct in 7 days......
+
 Contact me on telegram 
 
 ![evil_red_octopus](https://github.com/evil-red-octopus/squid_rootkit_2023/assets/148368853/66394b5c-3c0c-4200-a2c8-08fa6554f514)
