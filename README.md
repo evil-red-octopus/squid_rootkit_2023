@@ -1,6 +1,10 @@
 # squid_rootkit_2023
 Latest and the most advanced RAT rootkit you can get for WIndows in 2023
 
+Tested on Windows 11 Pro
+
+Full defender bypass+nuke on demand
+
 Features include:
 
 Screenshot
