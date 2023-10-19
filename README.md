@@ -5,6 +5,10 @@ Tested on Windows 11 Pro
 
 Full defender bypass+nuke on demand
 
+Added attiny85 attack vector
+
+Just plug in the usb and programmed bad usb and everything will be done for you automatically
+
 Features include:
 
 Screenshot
@@ -42,8 +46,6 @@ Price: 0.044 bitcoins
 And that is final.
 
 Nothing more nothing less
-
-This github repo will self destruct in 7 days......
 
 Visit my website 
 
