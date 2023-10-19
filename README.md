@@ -31,7 +31,31 @@ Speech
 
 Self destruct
 
-And the rest you can see in the help screenshot
+Keylogger
+
+nuke_os
+
+nuke_defender
+
+encrypt any folder
+
+disable_task_manager
+
+pull chrome cache in cleartext
+
+Speech
+
+clipboard
+
+lock
+
+shutdown
+
+webcam capture
+
+upload
+
+download
 
 Fully fud poc
 
